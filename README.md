@@ -92,14 +92,6 @@ This AI-powered app helps students and nature enthusiasts identify and explore t
 
 ---
 
-## 💡 Educational Value
-
-- Hands-on learning with **machine learning and deep learning**
-- Understand how **GPS and environmental data** influence species prediction
-- Learn to deploy and use **AI models in real apps**
-
----
-
 ## ✅ How to Run
 
 1. Run `5M_trees.ipynb` to train the recommender and save:
